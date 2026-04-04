@@ -25,7 +25,12 @@ Previdência Renda Fixa: Documento sobre planos atrelados a títulos públicos e
 .
 Regulamento de Plano Individual (VGBL): Documento jurídico completo detalhando as características estruturais do plano, período de diferimento, portabilidade e cálculos atuariais
 .
+https://www.bradescoseguros.com.br/wcm/connect/67d91ed1-3d55-4428-b82e-2e5b0d8afc97/RP_VGBL_CP_15414.902056_2014-10.pdf?MOD=AJPERES&CONVERT_TO=url&CACHEID=ROOTWORKSPACE-67d91ed1-3d55-4428-b82e-2e5b0d8afc97-pL1JiqM
 
+https://www.bradescoseguros.com.br/ppra-fed-simuladorprevidencia/simulador/detalhar
+https://www.bradescoseguros.com.br/clientes/produtos/previdencia-privada/previdencia-renda-fixa
+https://www.bradescoseguros.com.br/clientes/produtos/previdencia-privada
+https://www.bradescoseguros.com.br/clientes/produtos/previdencia-privada/previdencia-multimercado
 --------------------------------------------------------------------------------
 Engenharia de Prompts e "Cicatrizes"
 Abaixo estão documentadas as perguntas estratégicas elaboradas durante o estudo, os resultados obtidos e as dificuldades de extração (troubleshooting):
