@@ -1,6 +1,8 @@
 # Guia-Pratico-Previd-ncia-Bradesco
 Guia prático para os primeiros passos com a Previdência Privada Bradesco.
 
+https://notebooklm.google.com/notebook/4649dd0f-a1dc-42b0-b869-d166fba7c3d0?artifactId=7230049f-453c-439b-a233-7d20b11b3a15
+
 Contexto e Objetivos
 O assunto de interesse escolhido para este caderno temático é a Previdência Privada no Brasil, com foco nas modalidades, fundos de investimento e aspectos legais e tributários de contratação. O planejamento financeiro de longo prazo é essencial para a constituição de reservas, seja para a aposentadoria, futuro de jovens ou diversificação de investimentos
 .
